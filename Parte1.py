@@ -4,7 +4,8 @@
     #Pablo Talamantes 
     #Oscar Chavez 
 
-palabras = ["El ingeniero estudia Python.", "Python es fundamental en IA."]
+
+palabra = ["El ingeniero estudia Python.", "Python es fundamental en IA."]
 nombre_archivo  = "documento.txt"
 
     input("Ingrese palabra clave:") 
