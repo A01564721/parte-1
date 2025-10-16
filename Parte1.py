@@ -7,13 +7,19 @@
 palabras = ["El ingeniero estudia Python.", "Python es fundamental en IA."]
 nombre_archivo  = "documento.txt"
 
- 
-input("Ingrese palabra clave:") 
+    input("Ingrese palabra clave:") 
+
+        for palabra in palabras.split():
+            print(palabra)
 
 
-print("¿Desea continuar buscando? (s/n):") 
- 
- if
+continuar = true
+    print(f"¿Desea continuar buscando? (s/n):", continuar) 
+         if 
+
+while palabra in palabras :
+    print("Línea encontrada:", palabra )
 
 
+while 
 
